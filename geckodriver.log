@@ -1,0 +1,64 @@
+1486453805530	geckodriver	INFO	Listening on 127.0.0.1:54533
+1486453806428	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.aCp8uDPRetV3
+1486453806430	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486453806469	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54550
+1486453807990	Marionette	INFO	Listening on port 54550
+1486453909003	geckodriver	INFO	Listening on 127.0.0.1:54842
+1486453909950	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.gjrLygJ2XrWQ
+1486453909952	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486453909956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54858
+1486453910793	Marionette	INFO	Listening on port 54858
+1486454003001	geckodriver	INFO	Listening on 127.0.0.1:55116
+1486454003946	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.bs0ecjhu6qNK
+1486454003949	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486454003954	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55131
+1486454004802	Marionette	INFO	Listening on port 55131
+1486454030584	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486454150310	geckodriver	INFO	Listening on 127.0.0.1:56296
+1486454151247	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.WFdlCDQkhV55
+1486454151250	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486454151255	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56313
+1486454152083	Marionette	INFO	Listening on port 56313
+1486454176720	geckodriver	INFO	Listening on 127.0.0.1:56408
+1486454177672	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.Cf0xSDfZ4o2P
+1486454177675	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486454177678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56423
+1486454178491	Marionette	INFO	Listening on port 56423
+1486454204475	geckodriver	INFO	Listening on 127.0.0.1:56526
+1486454205408	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.AcH1NZJ1yTCa
+1486454205411	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486454205414	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56541
+1486454206229	Marionette	INFO	Listening on port 56541
+1486454217420	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486454217428	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486455454442	geckodriver	INFO	Listening on 127.0.0.1:59538
+1486455455376	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.Li5zrTHPMAL3
+1486455455379	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486455455385	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59553
+1486455456233	Marionette	INFO	Listening on port 59553
+1486455474170	geckodriver	INFO	Listening on 127.0.0.1:59645
+1486455475102	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.ahIPMdPnzBh3
+1486455475105	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486455475110	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59660
+1486455476047	Marionette	INFO	Listening on port 59660
+1486455509598	geckodriver	INFO	Listening on 127.0.0.1:59787
+1486455510535	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.th1f1ymtK9fb
+1486455510538	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486455510541	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59802
+1486455511351	Marionette	INFO	Listening on port 59802
+1486455553973	geckodriver	INFO	Listening on 127.0.0.1:59952
+1486455554915	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.oBPq8uOmQK6N
+1486455554918	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486455554921	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59967
+1486455555739	Marionette	INFO	Listening on port 59967
+1486455572837	geckodriver	INFO	Listening on 127.0.0.1:60047
+1486455573782	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.98fse1DovbbT
+1486455573784	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486455573788	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60063
+1486455574605	Marionette	INFO	Listening on port 60063
+1486455657132	geckodriver	INFO	Listening on 127.0.0.1:60335
+1486455658075	mozprofile::profile	INFO	Using profile path /var/folders/j7/dc2m1vf952lbl6g8tx3qdj840000gp/T/rust_mozprofile.UduqYFok9HhT
+1486455658078	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486455658082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60350
+1486455658904	Marionette	INFO	Listening on port 60350
+1486455720539	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
